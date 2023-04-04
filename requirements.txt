@@ -1,0 +1,5 @@
+web3==5.31.1
+requests
+datetime
+termcolor
+typing_extensions
